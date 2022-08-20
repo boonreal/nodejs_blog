@@ -1,0 +1,24 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "trung dep trai dang hoc nodejs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boonreal/nodejs_blog.git"
+  },
+  "keywords": [
+    "blog",
+    "test",
+    "nodejs"
+  ],
+  "author": "trungbui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boonreal/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/boonreal/nodejs_blog#readme"
+}
